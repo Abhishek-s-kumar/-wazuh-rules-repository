@@ -1,1 +1,1 @@
-# -wazuh-rules-repository
+# wazuh-rules-repository
